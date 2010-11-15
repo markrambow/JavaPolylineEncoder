@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Bikely - http://www.bikely.com"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Poco Trail Route - Pitt River/Minnikada Park</name>
+<cmt>Permalink: <![CDATA[
+http://www.stepwhere.com/maps/route/Poco-Trail-Route-Pitt-River-Minnikada-Park
+]]>
+</cmt>
+
+<rtept lat="49.285786395566" lon="-122.73332476616">
+			<name>Point 0</name>
+				<ele>9</ele>
+			</rtept>
+			<rtept lat="49.284365725384" lon="-122.72961258888">
+			<name>Point 1</name>
+				<ele>9</ele>
+			</rtept>
+			<rtept lat="49.284330732991" lon="-122.72893667221">
+			<name>Point 2</name>
+				<ele>8</ele>
+			</rtept>
+			<rtept lat="49.284267746621" lon="-122.72861480713">
+			<name>Point 3</name>
+				<ele>8</ele>
+			</rtept>
+			<rtept lat="49.283987806226" lon="-122.72831439972">
+			<name>Point 4</name>
+				<ele>3</ele>
+			</rtept>
+			<rtept lat="49.283455915097" lon="-122.7277135849">
+			<name>Point 5</name>
+				<ele>3</ele>
+			</rtept>
+			<rtept lat="49.282420110644" lon="-122.72681236267">
+			<name>Point 6</name>
+				<ele>4</ele>
+			</rtept>
+			<rtept lat="49.282224145192" lon="-122.72629737854">
+			<name>Point 7</name>
+				<ele>7</ele>
+			</rtept>
+			<rtept lat="49.282196150064" lon="-122.72599697113">
+			<name>Point 8</name>
+				<ele>7</ele>
+			</rtept>
+			<rtept lat="49.282308130481" lon="-122.7250957489">
+			<name>Point 9</name>
+				<ele>8</ele>
+			</rtept>
+			<rtept lat="49.282532090553" lon="-122.72432327271">
+			<name>Point 10</name>
+				<ele>5</ele>
+			</rtept>
+			<rtept lat="49.283343937286" lon="-122.72312164307">
+			<name>Point 11</name>
+				<ele>7</ele>
+			</rtept>
+			<rtept lat="49.283343937286" lon="-122.72213459015">
+			<name>Point 12</name>
+				<ele>4</ele>
+			</rtept>
+			<rtept lat="49.282280135401" lon="-122.7206325531">
+			<name>Point 13</name>
+				<ele>5</ele>
+			</rtept>
+			<rtept lat="49.282196150064" lon="-122.72033214569">
+			<name>Point 14</name>
+				<ele>5</ele>
+			</rtept>
+			<rtept lat="49.281888202605" lon="-122.71861553192">
+			<name>Point 15</name>
+				<ele>1</ele>
+			</rtept>
+			<rtept lat="49.281748225852" lon="-122.71788597107">
+			<name>Point 16</name>
+				<ele>1</ele>
+			</rtept>
+			<rtept lat="49.281188314866" lon="-122.71552562714">
+			<name>Point 17</name>
+				<ele>5</ele>
+			</rtept>
+			<rtept lat="49.281272301919" lon="-122.7127790451">
+			<name>Point 18</name>
+				<ele>7</ele>
+			</rtept>
+			<rtept lat="49.280012481102" lon="-122.71123409271">
+			<name>Point 19</name>
+				<ele>3</ele>
+			</rtept>
+			<rtept lat="49.279872499024" lon="-122.7105474472">
+			<name>Point 20</name>
+				<ele>5</ele>
+			</rtept>
+			<rtept lat="49.279956488318" lon="-122.70981788635">
+			<name>Point 21</name>
+				<ele>4</ele>
+			</rtept>
+			<rtept lat="49.281468271154" lon="-122.70775794983">
+			<name>Point 22</name>
+				<ele>3</ele>
+			</rtept>
+			<rtept lat="49.284463703952" lon="-122.70398139954">
+			<name>Point 23</name>
+				<ele>4</ele>
+			</rtept>
+			<rtept lat="49.286143306272" lon="-122.70037651062">
+			<name>Point 24</name>
+				<ele>0</ele>
+			</rtept>
+			<rtept lat="49.289166446272" lon="-122.68994808197">
+			<name>Point 25</name>
+				<ele>4</ele>
+			</rtept>
+			<rtept lat="49.289670284917" lon="-122.68921852112">
+			<name>Point 26</name>
+				<ele>3</ele>
+			</rtept>
+			<rtept lat="49.293141033443" lon="-122.68917560577">
+			<name>Point 27</name>
+				<ele>12</ele>
+			</rtept>
+			<rtept lat="49.293057066605" lon="-122.70119190216">
+			<name>Point 28</name>
+				<ele>6</ele>
+			</rtept>
+			<rtept lat="49.293029077627" lon="-122.71724224091">
+			<name>Point 29</name>
+				<ele>10</ele>
+			</rtept>
+			<rtept lat="49.295548021981" lon="-122.71719932556">
+			<name>Point 30</name>
+				<ele>25</ele>
+			</rtept>
+			<rtept lat="49.297563084783" lon="-122.71664142609">
+			<name>Point 31</name>
+				<ele>34</ele>
+			</rtept>
+			<rtept lat="49.295855884129" lon="-122.71990299225">
+			<name>Point 32</name>
+				<ele>46</ele>
+			</rtept>
+			<rtept lat="49.294092647611" lon="-122.72316455841">
+			<name>Point 33</name>
+				<ele>57</ele>
+			</rtept>
+			<rtept lat="49.293504888088" lon="-122.72505283356">
+			<name>Point 34</name>
+				<ele>55</ele>
+			</rtept>
+			<rtept lat="49.293336955509" lon="-122.72535324097">
+			<name>Point 35</name>
+				<ele>55</ele>
+			</rtept>
+			<rtept lat="49.293336955509" lon="-122.72539615631">
+			<name>Point 36</name>
+				<ele>55</ele>
+			</rtept>
+			<rtept lat="49.293085055567" lon="-122.72573947906">
+			<name>Point 37</name>
+				<ele>54</ele>
+			</rtept>
+			<rtept lat="49.288242728717" lon="-122.73376464844">
+			<name>Point 38</name>
+				<ele>50</ele>
+			</rtept>
+			<rtept lat="49.288914525019" lon="-122.73372173309">
+			<name>Point 39</name>
+				<ele>67</ele>
+			</rtept>
+			<rtept lat="49.288914525019" lon="-122.73419380188">
+			<name>Point 40</name>
+				<ele>73</ele>
+			</rtept>
+			<rtept lat="49.288550636491" lon="-122.73565292358">
+			<name>Point 41</name>
+				<ele>72</ele>
+			</rtept>
+			<rtept lat="49.288466661834" lon="-122.73758411407">
+			<name>Point 42</name>
+				<ele>65</ele>
+			</rtept>
+			<rtept lat="49.288270720412" lon="-122.73749828339">
+			<name>Point 43</name>
+				<ele>65</ele>
+			</rtept>
+			<rtept lat="49.28757092326" lon="-122.73809909821">
+			<name>Point 44</name>
+				<ele>57</ele>
+			</rtept>
+			<rtept lat="49.285779397291" lon="-122.73805618286">
+			<name>Point 45</name>
+				<ele>37</ele>
+			</rtept>
+			<rtept lat="49.285779397291" lon="-122.73389339447">
+			<name>Point 46</name>
+				<ele>17</ele>
+			</rtept>
+			<rtept lat="49.285779397291" lon="-122.73350715637">
+			<name>Port Coquitlam</name>
+				<cmt>9.5k run</cmt>
+				<ele>17</ele>
+			</rtept>
+			</rte>
+		</gpx>

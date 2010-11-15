@@ -1,0 +1,55 @@
+<project name="PolyLineEncoderCMD" default="jar">
+
+  <path id="pe.classpath">
+ 		<fileset dir="lib">
+ 			<include name="**/*.jar" />
+ 		</fileset>
+ 	</path>
+
+
+   <taskdef name="groovyc" 
+     classpathref="pe.classpath"
+     classname="org.codehaus.groovy.ant.Groovyc" />
+
+     <target name="init">
+       <mkdir dir="target"/>
+     </target>
+
+<target name="compile" depends="init">
+
+<groovyc srcdir="src" destdir="target">
+	<classpath>
+		<path refid="pe.classpath"/>
+	</classpath>
+	<javac source="1.5" target="1.5" />
+</groovyc>
+</target>
+
+	
+<target name="jar" description="Build the distribution .jar file" depends="compile">
+	<copy todir="${basedir}/target/src">
+		<fileset dir="${basedir}/src">
+			<include name="*/**" />
+		</fileset>
+	</copy>
+
+  <unjar dest="target">
+		<fileset dir="lib" includes="groovy-all-1.1-beta-3.jar" />
+	</unjar>
+	
+
+	<copy todir="target/META-INF/">
+		<fileset dir="resources">
+			<include name="MANIFEST.MF" />
+		</fileset>
+	</copy>
+	
+
+	<jar compress="true" destfile="PolylineEncoder.jar" manifest="target/META-INF/MANIFEST.MF">
+		<fileset dir="target" />
+  </jar>
+	<delete dir="target"/>
+  
+</target>
+	
+</project>
